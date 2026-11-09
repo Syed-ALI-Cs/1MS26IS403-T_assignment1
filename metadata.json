@@ -1,0 +1,6 @@
+{
+  "name": "StudyKit AI - Academic Exam Prep Assistant",
+  "description": "Transform study notes and document images into structured study kits with key concepts, practice exam questions, and interactive flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
